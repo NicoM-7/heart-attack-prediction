@@ -24,7 +24,7 @@ Follow these steps to get the notebook up and running on your machine and ensure
 ### 1. **Clone this repository**
 
 ```bash
-git clone https://github.com/yourusername/heart-attack-prediction.git
+git clone https://github.com/NicoM-7/heart-attack-prediction.git
 cd heart-attack-prediction
 ```
 
